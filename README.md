@@ -1,4 +1,9 @@
-# Magazine Landing Page
+
+# Magazine Landing Page - LÖSUNG
+
+*Hinweis zur Lösung* 
+*Die Seite ist von oben nach unten in drei Abschnitten strukturiert*
+
 
 Erstellt die "landing page", die ihr im "mockup" seht:
 
